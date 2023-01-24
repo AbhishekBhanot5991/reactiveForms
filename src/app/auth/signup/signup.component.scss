@@ -1,0 +1,8 @@
+@import 'ngx-toastr/toastr';
+.error{
+    border: 1px solid red;
+}
+.error-message{
+    display: flex;
+    flex-direction: column;
+}
